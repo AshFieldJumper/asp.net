@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bf0fe1b-0ae0-43be-8681-c39ef24b3057" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1YIxwxQBYXM1mhL5bOUsOtAWUII" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rstoi\source\repos\LoginSystem\LoginSystem\wwwroot\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bf0fe1b-0ae0-43be-8681-c39ef24b3057" name="Default Changelist" comment="" />
+      <created>1582644151421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582644151421</updated>
+      <workItem from="1582644152833" duration="142000" />
+      <workItem from="1582707140431" duration="3895000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/js/signalr/src/Errors.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/Errors.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/ITransport.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/ITransport.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/WebSocketTransport.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/WebSocketTransport.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/HandshakeProtocol.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/HandshakeProtocol.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/Utils.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/Utils.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/IRetryPolicy.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/IRetryPolicy.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/DefaultReconnectPolicy.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/DefaultReconnectPolicy.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/NodeHttpClient.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/NodeHttpClient.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/HubConnection.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/HubConnection.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/EmptyNodeHttpClient.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/EmptyNodeHttpClient.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/XhrHttpClient.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/XhrHttpClient.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/IConnection.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/IConnection.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/Stream.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/Stream.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/HttpClient.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/HttpClient.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/Loggers.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/Loggers.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/LongPollingTransport.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/LongPollingTransport.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/Polyfills.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/Polyfills.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/AbortController.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/AbortController.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/browser-index.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/browser-index.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/DefaultHttpClient.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/DefaultHttpClient.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/Subject.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/Subject.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/ILogger.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/ILogger.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/HubConnectionBuilder.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/HubConnectionBuilder.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/index.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/index.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/IHttpConnectionOptions.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/IHttpConnectionOptions.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/JsonHubProtocol.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/JsonHubProtocol.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/TextMessageFormat.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/TextMessageFormat.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/IHubProtocol.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/IHubProtocol.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/ServerSentEventsTransport.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/ServerSentEventsTransport.js" />
+        <option value="$PROJECT_DIR$/js/signalr/src/HttpConnection.js.map" />
+        <option value="$PROJECT_DIR$/js/signalr/src/HttpConnection.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1582707182134">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1582707182134" />
+  </component>
+</project>
